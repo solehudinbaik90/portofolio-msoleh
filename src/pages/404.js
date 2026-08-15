@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 import { Breadcrumb } from "../components/elements";
-import { Layout } from "../components/Layout";
+import { Layout } from "../components/layout";
 import { toBase64, shimmer, imageLoader } from "../lib/utils";
 
 const NotFound = () => {
