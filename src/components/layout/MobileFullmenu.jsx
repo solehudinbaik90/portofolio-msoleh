@@ -27,7 +27,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="/#section-about">
+              <Link href="/about">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
@@ -38,7 +38,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="/#section-skills">
+              <Link href="/skills">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
@@ -49,7 +49,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="/#section-resume">
+              <Link href="/resume">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
@@ -82,7 +82,7 @@ const MobileFullmenu = ({ fullMenuHandler }) => {
               </Link>
             </li>
             <li className="block">
-              <Link href="#/section-contact">
+              <Link href="/contact">
                 <a
                   className="group relative inline-block cursor-pointer overflow-hidden py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={(e) => fullMenuHandler(false)}
