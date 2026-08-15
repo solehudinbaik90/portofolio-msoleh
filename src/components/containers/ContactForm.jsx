@@ -47,7 +47,7 @@ const ContactForm = () => {
         <label htmlFor="name">Nama</label>
         <input
           type="text"
-          placeholder="Enter your name..."
+          placeholder="Tulis nama anda..."
           id="name"
           {...register("name", { required: true })}
         />
@@ -55,7 +55,7 @@ const ContactForm = () => {
           <>
             {errors.name.type === "required" && (
               <p className="bg-red-500 bg-opacity-5 text-center text-sm text-red-500">
-                Name is required!
+                Nama diperlukan!
               </p>
             )}
           </>
@@ -65,7 +65,7 @@ const ContactForm = () => {
         <label htmlFor="email">Email</label>
         <input
           type="email"
-          placeholder="Enter your email..."
+          placeholder="Tulis email anda..."
           id="email"
           {...register("email", {
             required: true,
@@ -76,12 +76,12 @@ const ContactForm = () => {
           <>
             {errors.email.type === "required" && (
               <p className="bg-red-500 bg-opacity-5 text-center text-sm text-red-500">
-                Email dibutuhkan!
+                Email diperlukan!
               </p>
             )}
             {errors.email.type === "pattern" && (
               <p className="bg-red-500 bg-opacity-5 text-center text-sm text-red-500">
-                Invalid alamat email!
+                Alamat email tidak sah!
               </p>
             )}
           </>
@@ -91,7 +91,7 @@ const ContactForm = () => {
         <label htmlFor="subject">Judul</label>
         <input
           type="text"
-          placeholder="Enter subject..."
+          placeholder="Tulis judul..."
           id="subject"
           {...register("subject", { required: true })}
         />
@@ -99,7 +99,7 @@ const ContactForm = () => {
           <>
             {errors.subject.type === "required" && (
               <p className="bg-red-500 bg-opacity-5 text-center text-sm text-red-500">
-                Subject is required!
+                Judul diperlukan!
               </p>
             )}
           </>
@@ -108,7 +108,7 @@ const ContactForm = () => {
       <div className="inputbox">
         <label htmlFor="message">Pesan</label>
         <textarea
-          placeholder="Enter you message..."
+          placeholder="Tulis pesan anda..."
           cols="1"
           rows="5"
           id="message"
@@ -118,7 +118,7 @@ const ContactForm = () => {
           <>
             {errors.message.type === "required" && (
               <p className="bg-red-500 bg-opacity-5 text-center text-sm text-red-500">
-                Pesan dibutuhkan!
+                Pesan diperlukan!
               </p>
             )}
           </>
