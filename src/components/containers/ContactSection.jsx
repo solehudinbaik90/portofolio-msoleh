@@ -30,10 +30,9 @@ const ContactSection = () => {
         className="col-span-9 lg:col-span-4"
       >
         <div className="contact-information">
-          <h4>Contact Information</h4>
+          <h4>Informasi Kontak</h4>
           <p style={{display:'none'}}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. A omnis,
-            iusto harum possimus non praesentium qui facere.
+            Halo, saya Muhamad Soleh, pendidik yang berkomitmen membantu peserta didik berkembang melalui pembelajaran yang inspiratif, interaktif, dan didukung oleh teknologi pendidikan.
           </p>
           <span className="inline-block h-1 w-20 rounded-full bg-primary bg-opacity-20"></span>
           <div className="contact-blocks mt-5 space-y-5">
