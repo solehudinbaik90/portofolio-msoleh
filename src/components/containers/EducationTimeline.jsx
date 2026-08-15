@@ -14,7 +14,7 @@ const EducationTimeline = () => {
         <div className="education-timeline">
             <h4>
                 <RiBookLine className="mr-2 inline-block text-primary" />
-                Educational Qualification
+                Kualifikasi Pendidikan
             </h4>
             {data?.map((timeline, index) => (
                 <motion.div
