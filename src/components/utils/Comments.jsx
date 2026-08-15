@@ -20,7 +20,7 @@ const Comments = ({ title, slug }) => {
     <DiscussionEmbed
       shortname="portofolio-msoleh2"
       config={{
-        url: https://vercel.app,
+        url: "https://vercel.app",
         identifier: slug,
         title: title,
       }}
