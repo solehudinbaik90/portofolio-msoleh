@@ -18,7 +18,7 @@ const contact = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="Contact Us"
+            title="Kontak Saya"
             watermark="Contact"
             animated={false}
           />
