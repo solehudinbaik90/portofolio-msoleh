@@ -17,7 +17,7 @@ const resume = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="My Skills"
+            title="Keahlian Saya"
             watermark="Skills"
             animated={false}
           />
@@ -34,7 +34,7 @@ const resume = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="My Resume"
+            title="Resume Saya"
             watermark="Resume"
             animated={false}
           />
