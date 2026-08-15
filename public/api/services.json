@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Pendidikan IPA & Fisika",
+        "text": "Menyediakan layanan pengajaran IPA dan Fisika dengan pendekatan yang mudah dipahami, interaktif, dan berorientasi pada kebutuhan peserta didik. Materi disampaikan menggunakan metode pembelajaran yang kreatif untuk meningkatkan pemahaman konsep serta hasil belajar siswa.",
+        "icon": "/icons/quill-pen-line.svg"
+    },
+    {
+        "id": 2,
+        "title": "Pengelolaan Website Sekolah",
+        "text": "Membantu sekolah, madrasah, maupun yayasan dalam merancang, mengelola, dan memperbarui website sebagai media informasi, publikasi kegiatan, serta sarana komunikasi antara sekolah, peserta didik, dan masyarakat.",
+        "icon": "/icons/code-s-slash-line.svg"
+    },
+    {
+        "id": 3,
+        "title": "Media Pembelajaran Digital",
+        "text": "Mengembangkan media pembelajaran berbasis digital seperti presentasi interaktif, infografis, video edukasi, dan simulasi pembelajaran untuk mendukung proses belajar mengajar yang lebih menarik dan efektif.",
+        "icon": "/icons/smartphone-line.svg"
+    }
+]

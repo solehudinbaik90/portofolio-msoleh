@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Sekolah tak bertuan",
+        "meta": "Guru IPA",
+        "text": "memberikan motivasi dan semangat kepada anak anak untuk selalu rajin belajar agar menjadi pintar dan dikemudian hari bisa membahagiakan orang tua dan membanggakannya sampai akhir hayat.",
+        "year": "2016 - 2018"
+    },
+    {
+        "id": 2,
+        "title": "Sekolah Kehidupan",
+        "meta": "Guru Fisika",
+        "text": "Memberikan layanan desain website sekolah saat saya masih menjadi guru di sana, karena di era digital saat ini informasi yang cepat dibutuhkan maka daripada itu saya memberikan pelayanan website informasi sekolah agar orang tua murid bisa mengetahui pengumuman dari sekolah.",
+        "year": "2028 - 2020"
+    },
+    {
+        "id": 3,
+        "title": "Sekolah Pinggir Jurang",
+        "meta": "Guru Humoris",
+        "text": "Memberikan kontribusi penuh untuk sekolah terutama dalam hal sarana dan prasarana menyedikan segala sesuatu yang dibutuhkan sekolah dan administrasi sekolah yaitu terkait dengan kegitan belajar mengajar di kelas.",
+        "year": "2016 - 2020"
+    },
+    {
+        "id": 4,
+        "title": "Sekolah Alam Semesta",
+        "meta": "Layanan terbaik",
+        "text": "Memberi layanan terbaik adalah prioritas diriku untuk membantu anak anak tumbuh menjadi pribadi yang cerdas dan beretika dan bisa berguna bagi nusa dan bangsa..",
+        "year": "2015 - 2019"
+    },
+    {
+        "id": 5,
+        "title": "SMK PARAMARTA",
+        "meta": "Guru IPA dan Fisika",
+        "text": "Saya mengajar hampir 10 tahun dengan fokus membantu siswa.",
+        "year": "2013 - 2019"
+    },
+    {
+        "id": 6,
+        "title": "MTs Raudlatul Ilmiyah",
+        "meta": "Guru terbaik",
+        "text": "Saya mengajar 11 tahun dan berkontribusi membuat bahan ajar.",
+        "year": "2014 - 2020"
+    },
+    {
+        "id": 7,
+        "title": "SMA Gitta kirti",
+        "meta": "Guru Humoris",
+        "text": "Memgajar kurang lebih setahun mengarahkan dan membimbing siswa ke arah yang baik.",
+        "year": "2017 - 2018"
+    },
+    {
+        "id": 8,
+        "title": "Bimbel Zenius",
+        "meta": "Guru IPA",
+        "text": "Dua tahun saya mengajar IPA, Alhamdulillah murid saya mendapat nilai baik.",
+        "year": "2018 - 2019"
+    }
+]

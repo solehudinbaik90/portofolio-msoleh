@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Arie Untung",
+        "meta": "Konten Kreator",
+        "givenreview": 5.0,
+        "image": "/images/user-avatar-1.png",
+        "text": "mengajarnya sangat mudah dipahami dan sabar dalam membimbing siswa. Anak saya menjadi lebih semangat belajar IPA dan nilainya meningkat dengan baik."
+    },
+    {
+        "id": 2,
+        "name": "Sherly Annavita",
+        "meta": "Influencer",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-4.png",
+        "text": "Memiliki kemampuan yang baik dalam bidang pendidikan dan teknologi sekolah. Sangat membantu dalam pengelolaan UNBK serta desain website sekolah yang modern dan informatif."
+    },
+    {
+        "id": 3,
+        "name": "Alyssa Soebandono",
+        "meta": "Freelancer",
+        "givenreview": 4.2,
+        "image": "/images/user-avatar-3.png",
+        "text": "Profesional, disiplin, dan bertanggung jawab dalam bekerja. Selain mengajar dengan baik, juga mampu membuat website sekolah menjadi lebih menarik dan mudah diakses."
+    },
+    {
+        "id": 4,
+        "name": "Iqbal Ramadhan",
+        "meta": "Desainer",
+        "givenreview": 4.7,
+        "image": "/images/user-avatar-2.png",
+        "text": "Hasil desain webnya sangat rapi dan sesuai kebutuhan sekolah. Komunikatif dalam pengerjaan dan selalu memberikan solusi terbaik untuk tampilan website."
+    },
+    {
+        "id": 5,
+        "name": "UAS",
+        "meta": "Pendakwah",
+        "givenreview": 5,
+        "image": "/images/user-avatar-2.png",
+        "text": "Selain seorang pendidik, Beliau memang mempunyai kepribadian yang baik seperti selalu bersedekah, dan sholat tepat waktu."
+    }
+]

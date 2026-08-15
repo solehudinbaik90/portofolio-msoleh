@@ -1,0 +1,22 @@
+{
+    "firstName": "Muhamad",
+    "lastName": "Soleh",
+    "fullName": "Muhamad Soleh",
+    "thumbImage": "/images/msoleh.png",
+    "largeImage": "/images/profil.png",
+    "bio": "Muhamad Soleh seorang pendidik dengan usia yang tidak muda lagi tapi ingin terus berjuang mencerdaskan kehidupan bangsa demi indonesia yang lebih cerah. Selalu berlatih, berinovasi mengembangan diri agar menjadi pendidik profesional.",
+    "nationality": "Indonesia",
+    "languages": [ "Indonesia, Arab, Sunda" ],
+    "address": "Sincelejo - Sucre",
+    "socialAddress": {
+        "github": "https://facebook.com/soleh.muhamad",        
+        "twitter": "https://facebook.com/soleh.muhamad",
+        "linkedin": "https://facebook.com/soleh.muhamad"
+    },
+    "phoneNumbers": [
+        "+62 8874 3313 0861"
+    ],
+    "emailAddress": [
+        "solehudinz3692@gmail.com"
+    ]
+}

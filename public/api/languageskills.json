@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Ms Office",
+        "percentage": 100
+    },
+    {
+        "id": 2,
+        "title": "Photoshop",
+        "percentage": 100
+    },
+    {
+        "id": 3,
+        "title": "Illustrator",
+        "percentage": 100
+    },
+    {
+        "id": 4,
+        "title": "HTML5",
+        "percentage": 100
+    },
+    {
+        "id": 5,
+        "title": "PHP",
+        "percentage": 100
+    },
+    {
+        "id": 6,
+        "title": "Java Script",
+        "percentage": 100
+    },
+    {
+        "id": 7,
+        "title": "Flash",
+        "percentage": 100
+    },
+    {
+        "id": 8,
+        "title": "Elerning",
+        "percentage": 100
+    },
+    {
+        "id": 9,
+        "title": "Codeigniter",
+        "percentage": 100
+    },
+    {
+        "id": 10,
+        "title": "Desainer Web",
+        "percentage": 100
+    },
+    {
+        "id": 11,
+        "title": "Desainer Grafis",
+        "percentage": 100
+    },
+    {
+        "id": 12,
+        "title": "Publisher",
+        "percentage": 100
+    }
+]

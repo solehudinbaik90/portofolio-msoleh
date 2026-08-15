@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Tidak bergelar",
+        "meta": "SMPN 1 Rajeg",
+        "year": "2003 - 2005"
+    },
+    {
+        "id": 2,
+        "title": "Tidak bergelar",
+        "meta": "SMAN 2 Kabupaten Tangerang",
+        "year": "2006 - 2008"
+    },
+    {
+        "id": 3,
+        "title": "Sarjana Fisika",
+        "meta": "UIN Syarif Hidayatullah Jakarta",
+        "year": "2009 - 2015"
+    }
+]
