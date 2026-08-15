@@ -7,7 +7,7 @@ const MobileNavigation = ({ changeState }) => {
   const router = useRouter();
 
   const checkroute =
-    router.route !== "/homepage";
+    router.route !== "/";
 
   const handleClick = () => {
     changeState(false);
@@ -30,7 +30,7 @@ const MobileNavigation = ({ changeState }) => {
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
                 >
-                  Home
+                  Beranda
                   <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
                 </a>
               </Link>
@@ -57,7 +57,7 @@ const MobileNavigation = ({ changeState }) => {
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
                 >
-                  About
+                  Profil
                   <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
                 </a>
               </Link>
@@ -84,7 +84,7 @@ const MobileNavigation = ({ changeState }) => {
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
                 >
-                  Skills
+                  Keahlian
                   <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
                 </a>
               </Link>
@@ -139,7 +139,7 @@ const MobileNavigation = ({ changeState }) => {
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
                 >
-                  Works
+                  Proyek
                   <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
                 </a>
               </Link>
@@ -165,7 +165,7 @@ const MobileNavigation = ({ changeState }) => {
                 className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                 onClick={() => handleClick()}
               >
-                Blog
+                Artikel
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
@@ -177,7 +177,7 @@ const MobileNavigation = ({ changeState }) => {
                   className="group relative inline-block cursor-pointer py-2 text-lg uppercase tracking-wider text-heading before:text-primary"
                   onClick={() => handleClick()}
                 >
-                  Contact
+                  Kontak
                   <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
                 </a>
               </Link>
@@ -209,7 +209,7 @@ const MobileNavigation = ({ changeState }) => {
             className="btn btn-small"
             onClick={() => handleClick()}
           >
-            <span>Hire Me</span>
+            <span>Rekrut Saya</span>
           </ScrollLink>
         </div>
       </nav>
