@@ -9,7 +9,7 @@ import { createSlug } from "../../lib";
 import { getPostsPath, getSinglePost } from "../../lib/blogging";
 import { imageLoader, shimmer, toBase64 } from "../../lib/utils";
 import { Breadcrumb } from "../../components/elements";
-import { Layout } from "../../components/Layout";
+import { Layout } from "../../components/layout";
 import { Spinner } from "../../components/utils";
 import Comments from "../../components/utils/Comments";
 
