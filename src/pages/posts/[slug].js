@@ -12,7 +12,7 @@ import {
   getRecentPosts,
 } from "../../lib/blogging";
 import { childrenAnimation } from "../../lib/motion";
-import { Layout } from "../../components/Layout";
+import { Layout } from "../../components/layout";
 
 const Posts = ({ posts, hasMore, categories, recentPosts }) => {
   const [mounted, setMounted] = useState(false);
