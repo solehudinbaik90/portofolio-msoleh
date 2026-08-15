@@ -17,7 +17,7 @@ const about = () => {
       {/* Start About Section */}
       <section id="section-about" className="about-section pt-24 lg:pt-28 xl:pt-32">
         <div className="container mx-auto">
-          <SectionHeading title="About Me" watermark="About" animated={false} />
+          <SectionHeading title="Profil Saya" watermark="About" animated={false} />
           <AboutSection />
         </div>
       </section>
@@ -30,7 +30,7 @@ const about = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="My Services"
+            title="Layanan Saya"
             watermark="Services"
             animated={false}
           />
@@ -46,7 +46,7 @@ const about = () => {
       >
         <div className="container mx-auto">
           <SectionHeading
-            title="Client Reviews"
+            title="Kata Mereka"
             watermark="Reviews"
             animated={false}
           />
