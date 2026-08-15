@@ -66,7 +66,7 @@ const Header = () => {
               duration={1000}
               className="btn"
             >
-              <span>Hire Me</span>
+              <span>Rekrut Saya</span>
             </ScrollLink>
           </div>
         </div>
