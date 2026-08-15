@@ -5,7 +5,7 @@ import { useRouter } from "next/router";
 const Navigation = () => {
   const router = useRouter();
   const checkroute =
-    router.route !== "/homepage";
+    router.route !== "/";
 
   return (
     <nav className="flex-grow px-5 text-center">
@@ -14,7 +14,7 @@ const Navigation = () => {
           {checkroute ? (
             <Link href="/">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-                Home
+                Beranda
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
@@ -37,7 +37,7 @@ const Navigation = () => {
           {checkroute ? (
             <Link href="#section-about">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-                About
+                Profil
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
@@ -60,7 +60,7 @@ const Navigation = () => {
           {checkroute ? (
             <Link href="#section-skills">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-              Skills
+              Keahlian
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
@@ -106,7 +106,7 @@ const Navigation = () => {
           {checkroute ? (
             <Link href="/">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-                Works
+                Proyek
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
@@ -128,7 +128,7 @@ const Navigation = () => {
         <li className="inline-block align-middle" style={{display:'none'}}>
           <Link href="/posts/1">
             <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-              Blog
+              Artikel
               <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
             </a>
           </Link>
@@ -137,7 +137,7 @@ const Navigation = () => {
           {checkroute ? (
             <Link href="#section-contact">
               <a className="group relative inline-block cursor-pointer py-6 text-sm font-medium uppercase tracking-wider text-heading before:text-primary">
-                Contact
+                Kontak
                 <span className="absolute left-0 top-auto bottom-5 inline-block h-px w-full origin-top-right scale-0 bg-primary align-middle transition-transform duration-500 group-hover:origin-top-left group-hover:scale-100"></span>
               </a>
             </Link>
