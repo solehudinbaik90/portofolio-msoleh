@@ -66,7 +66,7 @@ const AboutSection = () => {
             {data.firstName && (
               <li className="text-lg">
                 <strong className="inline-block min-w-[120px] font-medium">
-                  Nama Pertama{" "}
+                  Nama{" "}
                 </strong>
                 : {data.firstName}
               </li>
@@ -74,7 +74,7 @@ const AboutSection = () => {
             {data.lastName && (
               <li className="text-lg">
                 <strong className="inline-block min-w-[120px] font-medium">
-                  Nama Terakhir{" "}
+                  Panggilan{" "}
                 </strong>
                 : {data.lastName}
               </li>
