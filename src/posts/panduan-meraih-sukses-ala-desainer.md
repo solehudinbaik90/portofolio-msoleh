@@ -1,7 +1,7 @@
 ---
 title: "Panduan Meraih Sukses Ala Desainer Ditengah Badai Kompetitor"
 date: "2026-05-01T00:00:00+07:00"
-category: ["Technology"]
+category: ["Karier", "Tips & Trik"]
 cover: "/images/blog/blog-image-3.jpg"
 thumb: "/images/blog/sm/blog-image-3.jpg"
 ---
