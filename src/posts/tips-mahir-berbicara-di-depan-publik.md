@@ -1,7 +1,7 @@
 ---
 title: "Tips Mahir Berbicara Di Depan Publik Berguna Untuk Kamu Yang Ingin Jadi Jurnalis"
 date: "2026-06-01T00:00:00+07:00"
-category: ["Technology"]
+category: ["Komunikasi", "Tips & Trik"]
 cover: "/images/blog/blog-image-11.jpg"
 thumb: "/images/blog/sm/blog-image-11.jpg"
 ---
