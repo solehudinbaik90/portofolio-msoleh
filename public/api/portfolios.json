@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Candle",
-        "subtitle": "Creative Candle Light",
+        "title": "Lilin",
+        "subtitle": "Cahaya Lilin Kreatif",
         "coverimage": "/images/portfolios/portfolio-image-19.jpg",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-19.jpg",
@@ -15,8 +15,8 @@
     },
     {
         "id": 2,
-        "title": "Paint",
-        "subtitle": "Creative wall painting",
+        "title": "Cat",
+        "subtitle": "Lukisan dinding kreatif",
         "coverimage": "/images/portfolios/portfolio-image-2.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -25,8 +25,8 @@
     },
     {
         "id": 3,
-        "title": "UI/UX Sample",
-        "subtitle": "UI/UX Sample design mockup",
+        "title": "Contoh UI/UX",
+        "subtitle": "Contoh desain model UI/UX",
         "coverimage": "/images/portfolios/portfolio-image-3.jpg",
         "imagegallery": false,
         "videogallery": ["https://www.youtube.com/watch?v=87Wb47fmNWA"],
@@ -35,8 +35,8 @@
     },
     {
         "id": 4,
-        "title": "Packet",
-        "subtitle": "Packet design mockup",
+        "title": "Paket",
+        "subtitle": "Paket desain kemasan",
         "coverimage": "/images/portfolios/portfolio-image-4.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-4.jpg"],
         "videogallery": false,
@@ -45,8 +45,8 @@
     },
     {
         "id": 5,
-        "title": "Packet",
-        "subtitle": "Another packet design mockup",
+        "title": "Paket",
+        "subtitle": "Contoh desain kemasan lainnya",
         "coverimage": "/images/portfolios/portfolio-image-5.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-5.jpg"],
         "videogallery": ["https://www.youtube.com/watch?v=87Wb47fmNWA"],
@@ -55,8 +55,8 @@
     },
     {
         "id": 6,
-        "title": "Cream",
-        "subtitle": "Creative cream box design",
+        "title": "Krim",
+        "subtitle": "Desain kotak krim yang kreatif",
         "coverimage": "/images/portfolios/portfolio-image-6.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -66,7 +66,7 @@
     {
         "id": 7,
         "title": "NFT",
-        "subtitle": "Creative NFT Design",
+        "subtitle": "Desain NFT Kreatif",
         "coverimage": "/images/portfolios/portfolio-image-7.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -76,7 +76,7 @@
     {
         "id": 8,
         "title": "Atar",
-        "subtitle": "Atar box design",
+        "subtitle": "Desain kotak Atar",
         "coverimage": "/images/portfolios/portfolio-image-8.jpg",
         "imagegallery": ["/images/portfolios/portfolio-image-lg-8.jpg"],
         "videogallery": false,
@@ -85,8 +85,8 @@
     },
     {
         "id": 9,
-        "title": "Cream",
-        "subtitle": "Another cream box design",
+        "title": "Krim",
+        "subtitle": "Desain kotak krim lainnya",
         "coverimage": "/images/portfolios/portfolio-image-9.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -95,8 +95,8 @@
     },
     {
         "id": 10,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel box design",
+        "title": "Gel Rambut",
+        "subtitle": "Desain kotak gel rambut",
         "coverimage": "/images/portfolios/portfolio-image-10.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -105,8 +105,8 @@
     },
     {
         "id": 11,
-        "title": "Hair Gel",
-        "subtitle": "Hair gel tube design",
+        "title": "Gel Rambut",
+        "subtitle": "Desain tabung gel rambut",
         "coverimage": "/images/portfolios/portfolio-image-11.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -116,7 +116,7 @@
     {
         "id": 12,
         "title": "NFT",
-        "subtitle": "Creative NFT Text",
+        "subtitle": "Teks NFT Kreatif",
         "coverimage": "/images/portfolios/portfolio-image-12.jpg",
         "imagegallery": [
             "/images/portfolios/portfolio-image-lg-12.jpg",
@@ -129,7 +129,7 @@
     {
         "id": 13,
         "title": "Wallpaper",
-        "subtitle": "Creative wallpaper design",
+        "subtitle": "Desain wallpaper kreatif",
         "coverimage": "/images/portfolios/portfolio-image-13.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -139,7 +139,7 @@
     {
         "id": 14,
         "title": "Wallpaper",
-        "subtitle": "Creative desktop wallpaper",
+        "subtitle": "Wallpaper desktop kreatif",
         "coverimage": "/images/portfolios/portfolio-image-14.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -149,7 +149,7 @@
     {
         "id": 15,
         "title": "NFT",
-        "subtitle": "Creative NFT Design",
+        "subtitle": "Desain NFT Kreatif",
         "coverimage": "/images/portfolios/portfolio-image-15.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -158,8 +158,8 @@
     },
     {
         "id": 16,
-        "title": "Art",
-        "subtitle": "Creative wall art",
+        "title": "Seni",
+        "subtitle": "Seni dinding kreatif",
         "coverimage": "/images/portfolios/portfolio-image-16.jpg",
         "imagegallery": false,
         "videogallery": false,
@@ -169,7 +169,7 @@
     {
         "id": 17,
         "title": "Wallpaper2",
-        "subtitle": "Creative wallpaper art",
+        "subtitle": "Seni wallpaper kreatif",
         "coverimage": "/images/portfolios/portfolio-image-1.jpg",
         "imagegallery": false,
         "videogallery": false,
