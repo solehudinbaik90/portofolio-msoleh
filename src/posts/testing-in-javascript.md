@@ -1,12 +1,10 @@
 ---
-title: "Testing in javascript"
-date: "2022-04-30T20:31:59.889Z"
+title: "Panggung Pencitraan Politik di Era Digital"
+date: "2026-07-09T00:00:00+07:00"
 category: ["Javascript"]
 cover: "/images/blog/blog-image-6.jpg"
 thumb: "/images/blog/sm/blog-image-6.jpg"
 ---
-
-# Panggung Pencitraan Politik di Era Digital
 
 Era digital telah mengubah panggung politik menjadi arena pencitraan yang intens. Politisi memanfaatkan media sosial untuk membangun citra positif, sering kali lebih menonjolkan narasi daripada substansi kebijakan. Masyarakat perlu lebih cerdas menyikapi fenomena ini.
 
