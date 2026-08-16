@@ -1,12 +1,11 @@
 ---
-title: "How to install NodeJs"
-date: "2022-04-08T20:31:59.889Z"
+title: "Tips Menaklukkan Peserta Didik Dalam Memahami Mata Pelajaran IPA"
+date: "2026-05-23T00:00:00+07:00"
 category: ["Javascript"]
 cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---
 
-# Tips Menaklukkan Peserta Didik Dalam Memahami Mata Pelajaran IPA
 
 Mata pelajaran IPA sering dianggap sulit oleh banyak siswa karena konsepnya abstrak. Guru perlu strategi khusus agar materi menjadi lebih mudah dicerna dan menyenangkan. Pendekatan yang tepat dapat mengubah persepsi negatif menjadi rasa ingin tahu yang tinggi.
 
