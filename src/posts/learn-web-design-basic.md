@@ -1,12 +1,11 @@
 ---
-title: "Learn web design basic"
-date: "2022-04-15T20:31:59.889Z"
+title: "Buah Jatuh Tidak Jauh dari Pohonnya"
+date: "2026-06-15T00:00:00+07:00"
 category: ["Technology"]
 cover: "/images/blog/blog-image-9.jpg"
 thumb: "/images/blog/sm/blog-image-9.jpg"
 ---
 
-# Buah Jatuh Tidak Jauh dari Pohonnya
 
 Pepatah “buah jatuh tidak jauh dari pohonnya” menggambarkan bahwa sifat dan karakter anak sering mewarisi orang tuanya. Lingkungan keluarga menjadi sekolah pertama yang membentuk kepribadian, kebiasaan, serta nilai-nilai hidup seseorang sejak dini.
 
