@@ -1,12 +1,10 @@
 ---
-title: "Popular design tools you need"
-date: "2022-04-10T20:31:59.889Z"
+title: "Rumus P = F/A dalam Kehidupan"
+date: "2026-07-02T00:00:00+07:00"
 category: ["Design", "Technology"]
 cover: "/images/blog/blog-image-2.jpg"
 thumb: "/images/blog/sm/blog-image-2.jpg"
 ---
-
-# Rumus P = F/A dalam Kehidupan
 
 Rumus fisika P = F/A (tekanan sama dengan gaya dibagi luas permukaan) ternyata relevan dalam kehidupan sehari-hari. Semakin luas bidang yang menerima gaya, semakin kecil tekanan yang dihasilkan. Prinsip ini mengajarkan pentingnya distribusi beban dan efisiensi.
 
