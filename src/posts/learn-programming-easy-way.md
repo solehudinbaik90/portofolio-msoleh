@@ -1,12 +1,10 @@
 ---
-title: "Learn programming easy way"
-date: "2022-05-07T20:31:59.889Z"
+title: "Panduan Meraih Sukses Ala Desainer Ditengah Badai Kompetitor"
+date: "2026-05-01T00:00:00+07:00"
 category: ["Technology"]
 cover: "/images/blog/blog-image-3.jpg"
 thumb: "/images/blog/sm/blog-image-3.jpg"
 ---
-
-# Panduan Meraih Sukses Ala Desainer Ditengah Badai Kompetitor
 
 Dunia desain semakin kompetitif dengan banyaknya talenta baru yang muncul setiap hari. Untuk bertahan dan meraih sukses, seorang desainer harus memiliki strategi yang jelas serta kemampuan beradaptasi tinggi terhadap tren.
 
