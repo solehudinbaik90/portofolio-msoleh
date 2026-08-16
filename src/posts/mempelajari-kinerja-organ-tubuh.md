@@ -1,7 +1,7 @@
 ---
 title: "Mempelajari Kinerja Organ Tubuh Kita Agar Kita Selalu Hidup Sehat"
 date: "2026-07-03T00:00:00+07:00"
-category: ["Technology"]
+category: ["Sains", "Kesehatan"]
 cover: "/images/blog/blog-image-10.jpg"
 thumb: "/images/blog/sm/blog-image-10.jpg"
 ---
