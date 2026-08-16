@@ -1,7 +1,7 @@
 ---
 title: "HUT RI ke-81 Berdaulat Adil dan Makmur"
 date: "2026-08-16T00:00:00+07:00"
-category: ["Trend"]
+category: ["Nasionalisme"]
 cover: "/images/blog/blog-image-2.jpg"
 thumb: "/images/blog/sm/blog-image-2.jpg"
 ---
