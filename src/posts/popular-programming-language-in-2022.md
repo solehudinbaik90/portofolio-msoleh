@@ -1,12 +1,10 @@
 ---
-title: "Popular programming languages in 2022"
-date: "2022-04-15T20:31:59.889Z"
+title: "Mempelajari Kinerja Organ Tubuh Kita Agar Kita Selalu Hidup Sehat"
+date: "2026-07-03T00:00:00+07:00"
 category: ["Technology"]
 cover: "/images/blog/blog-image-10.jpg"
 thumb: "/images/blog/sm/blog-image-10.jpg"
 ---
-
-# Mempelajari Kinerja Organ Tubuh Kita Agar Kita Selalu Hidup Sehat
 
 Memahami kinerja organ tubuh adalah langkah penting menjaga kesehatan jangka panjang. Setiap organ memiliki fungsi spesifik yang saling terkait. Ketika satu organ terganggu, sistem tubuh secara keseluruhan dapat terpengaruh.
 
