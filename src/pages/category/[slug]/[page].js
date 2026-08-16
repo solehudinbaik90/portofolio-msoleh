@@ -81,7 +81,7 @@ const CategoryPosts = ({ posts, hasMore, categories, recentPosts }) => {
                     )}`}
                   >
                     <a className="btn btn-small">
-                      <span>Prev</span>
+                      <span>Sebelumnya</span>
                     </a>
                   </Link>
                 )}
@@ -92,7 +92,7 @@ const CategoryPosts = ({ posts, hasMore, categories, recentPosts }) => {
                     )}`}
                   >
                     <a className="btn btn-small">
-                      <span>Next</span>
+                      <span>Selanjutnya</span>
                     </a>
                   </Link>
                 )}
