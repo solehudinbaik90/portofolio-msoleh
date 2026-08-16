@@ -14,7 +14,7 @@ const GoogleMap = () => {
                     onClick={() => setOpen(true)}
                 >
                     <span className="text-sm font-medium uppercase tracking-widest">
-                        Open Map
+                        Buka Map
                     </span>
                 </div>
             )}
