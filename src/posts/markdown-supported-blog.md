@@ -1,12 +1,10 @@
 ---
-title: "Markdown supported blog"
-date: "2022-04-12T20:31:59.889Z"
+title: "Menanam Pohon - Harapan untuk Bumi"
+date: "2026-06-30T00:00:00+07:00"
 category: ["Markdown", "Technology"]
 cover: "/images/blog/blog-image-1.jpg"
 thumb: "/images/blog/sm/blog-image-1.jpg"
 ---
-
-# Menanam Pohon - Harapan untuk Bumi
 
 Menanam pohon merupakan tindakan sederhana namun berdampak besar bagi kelangsungan hidup bumi. Setiap pohon yang tumbuh membantu menyerap karbon dioksida, menghasilkan oksigen, serta menjaga kesuburan tanah. Di tengah ancaman perubahan iklim, aksi ini menjadi harapan nyata untuk masa depan yang lebih hijau.
 
