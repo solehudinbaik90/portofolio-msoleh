@@ -1,12 +1,10 @@
 ---
-title: "What designer can do"
-date: "2022-05-10T20:31:59.889Z"
+title: "Memilih Media Pembelajaran Yang Sesuai Di Era Digital Saat Ini"
+date: "2026-07-22T00:00:00+07:00"
 category: ["Trend"]
 cover: "/images/blog/blog-image-1.jpg"
 thumb: "/images/blog/sm/blog-image-1.jpg"
 ---
-
-# Memilih Media Pembelajaran Yang Sesuai Di Era Digital Saat Ini
 
 Era digital menawarkan beragam pilihan media pembelajaran, mulai dari video, aplikasi interaktif, hingga platform kolaboratif. Pemilihan yang tepat sangat menentukan efektivitas proses belajar mengajar di kelas maupun jarak jauh.
 
