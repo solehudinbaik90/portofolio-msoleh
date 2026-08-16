@@ -74,14 +74,14 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
                 {page !== "1" && (
                   <Link href={`/posts/${String(parseInt(page) - 1)}`}>
                     <a className="btn btn-small">
-                      <span>Prev</span>
+                      <span>Sebelumnya</span>
                     </a>
                   </Link>
                 )}
                 {hasMore && (
                   <Link href={`/posts/${String(parseInt(page) + 1)}`}>
                     <a className="btn btn-small">
-                      <span>Next</span>
+                      <span>Selanjutnya</span>
                     </a>
                   </Link>
                 )}
@@ -98,7 +98,7 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
                   className="widget widget-category card rounded p-4"
                 >
                   <h5 className="border-b border-white border-opacity-20 pb-2 font-medium text-primary">
-                    Categories
+                    Kategori
                   </h5>
                   <ul className="styledlist mb-0 list-none pl-0">
                     {uniqueCategories?.map((category, i) => (
@@ -129,7 +129,7 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
                   className="widget widget-recentpost card rounded p-4"
                 >
                   <h5 className="border-b border-white border-opacity-20 pb-2 font-medium text-primary">
-                    Recent Posts
+                    Postingan Terbaru
                   </h5>
                   <ul className="mb-0 list-none pl-0">
                     {recentPosts?.map((post, index) => (
