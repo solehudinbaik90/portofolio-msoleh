@@ -1,7 +1,7 @@
 ---
 title: "Panggung Pencitraan Politik di Era Digital"
 date: "2026-07-09T00:00:00+07:00"
-category: ["Javascript"]
+category: ["Politik", "Medsos"]
 cover: "/images/blog/blog-image-6.jpg"
 thumb: "/images/blog/sm/blog-image-6.jpg"
 ---
