@@ -1,7 +1,7 @@
 ---
 title: "Buah Jatuh Tidak Jauh dari Pohonnya"
 date: "2026-06-15T00:00:00+07:00"
-category: ["Technology"]
+category: ["Analogi", "Psikologi"]
 cover: "/images/blog/blog-image-9.jpg"
 thumb: "/images/blog/sm/blog-image-9.jpg"
 ---
