@@ -1,7 +1,7 @@
 ---
 title: "Jalan Terjal Sang Pendidik Dalam Menyongsong Masa Depan Cerah"
 date: "2026-07-01T00:00:00+07:00"
-category: ["Javascript"]
+category: ["Inspiratif", "Edukasi"]
 cover: "/images/blog/blog-image-5.jpg"
 thumb: "/images/blog/sm/blog-image-5.jpg"
 ---
