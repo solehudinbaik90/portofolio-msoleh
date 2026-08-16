@@ -1,7 +1,7 @@
 ---
 title: "Stop Hoax Jaga Ruang Digital Tetap Sehat"
 date: "2026-07-15T00:00:00+07:00"
-category: ["Design", "Trend"]
+category: ["Teknologi", "Literasi Digital"]
 cover: "/images/blog/blog-image-8.jpg"
 thumb: "/images/blog/sm/blog-image-8.jpg"
 ---
