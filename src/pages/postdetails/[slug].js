@@ -38,11 +38,11 @@ const PostPage = ({ title, date, cover, category, content }) => {
         title={title}
         paths={[
           {
-            name: "Home",
+            name: "Beranda",
             link: "/",
           },
           {
-            name: "Blogs",
+            name: "Artikel",
             link: "/posts/1",
           },
           {
