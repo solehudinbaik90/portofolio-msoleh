@@ -1,7 +1,7 @@
 ---
 title: "Memilih Media Pembelajaran Yang Sesuai Di Era Digital Saat Ini"
 date: "2026-07-22T00:00:00+07:00"
-category: ["Trend"]
+category: ["Edukasi", "Tips & Trik"]
 cover: "/images/blog/blog-image-1.jpg"
 thumb: "/images/blog/sm/blog-image-1.jpg"
 ---
