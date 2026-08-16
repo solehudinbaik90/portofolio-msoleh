@@ -1,7 +1,7 @@
 ---
 title: "Rumus P = F/A dalam Kehidupan"
 date: "2026-07-02T00:00:00+07:00"
-category: ["Design", "Technology"]
+category: ["Sains", "Edukasi"]
 cover: "/images/blog/blog-image-2.jpg"
 thumb: "/images/blog/sm/blog-image-2.jpg"
 ---
