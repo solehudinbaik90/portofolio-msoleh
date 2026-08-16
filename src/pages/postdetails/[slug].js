@@ -87,16 +87,14 @@ const PostPage = ({ title, date, cover, category, content }) => {
                 </div>
               </div>
               <p className="mb-0 text-heading">
-                Published on :
+                Diterbitkan pada :
                 <span className="ml-1.5 text-body">
-                  {`${new Date(date).toLocaleDateString("en-us", {
-                    month: "short",
-                  })} ${new Date(date).toLocaleDateString("en-us", {
-                    day: "2-digit",
-                  })}, ${new Date(date).getFullYear({
-                    year: "numeric",
-                  })}`}
-                </span>
+                  {`${new Date(date).toLocaleDateString("id-ID", {
+                   day: "2-digit",
+                  })} ${new Date(date).toLocaleDateString("id-ID", {
+                   month: "short",
+                  })} ${new Date(date).getFullYear()}`}
+               </span>
               </p>
             </div>
           </div>
