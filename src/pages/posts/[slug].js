@@ -142,17 +142,12 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
                           </Link>
                         </p>
                         <small className="text-body">
-                          {`${new Date(post.date).toLocaleDateString("en-us", {
-                            month: "short",
-                          })} ${new Date(post.date).toLocaleDateString(
-                            "en-us",
-                            {
-                              day: "2-digit",
-                            }
-                          )}, ${new Date(post.date).getFullYear({
-                            year: "numeric",
-                          })}`}
-                        </small>
+                        {`${new Date(post.date).toLocaleDateString("id-ID", {
+                        day: "2-digit",
+                        })} ${new Date(post.date).toLocaleDateString("id-ID", {
+                        month: "short",
+                        })} ${new Date(post.date).getFullYear()}`}
+                       </small>
                       </li>
                     ))}
                   </ul>
