@@ -1,12 +1,11 @@
 ---
-title: "NodeJs application testing"
-date: "2022-04-30T20:31:59.889Z"
+title: "Jalan Terjal Sang Pendidik Dalam Menyongsong Masa Depan Cerah"
+date: "2026-07-01T00:00:00+07:00"
 category: ["Javascript"]
 cover: "/images/blog/blog-image-5.jpg"
 thumb: "/images/blog/sm/blog-image-5.jpg"
 ---
 
-# Jalan Terjal Sang Pendidik Dalam Menyongsong Masa Depan Cerah
 
 Menjadi pendidik di era modern menuntut ketahanan mental dan adaptasi cepat. Tantangan seperti keterbatasan fasilitas, beban administrasi, serta perubahan kurikulum sering kali membuat perjalanan ini terasa berat. Namun, setiap langkah yang diambil dengan tulus akan membuka jalan menuju generasi yang lebih cerdas dan berkarakter.
 
