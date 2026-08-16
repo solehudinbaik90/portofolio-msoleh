@@ -1,7 +1,7 @@
 ---
 title: "Demokrasi Di Ujung Tanduk Penegak Hukum Berpihak Pada Penguasa"
 date: "2026-08-05T00:00:00+07:00"
-category: ["Javascript"]
+category: ["Politik", "Hukum"]
 cover: "/images/blog/blog-image-3.jpg"
 thumb: "/images/blog/sm/blog-image-3.jpg"
 ---
