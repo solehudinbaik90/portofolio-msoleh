@@ -1,12 +1,10 @@
 ---
-title: "What you need to learn in 2022"
-date: "2022-05-10T20:31:59.889Z"
+title: "HUT RI ke-81 Berdaulat Adil dan Makmur"
+date: "2026-08-16T00:00:00+07:00"
 category: ["Trend"]
 cover: "/images/blog/blog-image-2.jpg"
 thumb: "/images/blog/sm/blog-image-2.jpg"
 ---
-
-# HUT RI ke-81 Berdaulat Adil dan Makmur
 
 Memperingati HUT RI ke-81 adalah momen refleksi sekaligus semangat baru menuju Indonesia yang berdaulat, adil, dan makmur. Kemerdekaan yang diraih para pendahulu harus terus dijaga melalui kerja keras, gotong royong, serta komitmen terhadap nilai-nilai Pancasila.
 
