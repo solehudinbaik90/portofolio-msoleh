@@ -6,7 +6,7 @@ const Homepage = () => {
   return (
     <Layout>
       <Head>
-        <title>Muhamad Soleh | Portofolio</title>
+        <title>Beranda - Muhamad Soleh | Portofolio</title>
       </Head>
 
       {/* Start Hero Section */}
