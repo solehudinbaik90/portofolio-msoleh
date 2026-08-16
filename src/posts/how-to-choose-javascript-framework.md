@@ -6,7 +6,6 @@ cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---
 
-# Mari Kita Selalu Jaga Hutan Demi Keseimbangan Ekosistem Agar Tidak Terjadi Bencana
 
 Hutan berperan vital menjaga keseimbangan ekosistem dan mencegah berbagai bencana alam. Kerusakan hutan dapat memicu banjir, longsor, serta perubahan iklim yang semakin ekstrem. Oleh karena itu, upaya pelestarian harus menjadi tanggung jawab bersama.
 
