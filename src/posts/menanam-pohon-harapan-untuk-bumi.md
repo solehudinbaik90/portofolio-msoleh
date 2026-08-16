@@ -1,7 +1,7 @@
 ---
 title: "Menanam Pohon - Harapan untuk Bumi"
 date: "2026-06-30T00:00:00+07:00"
-category: ["Markdown", "Technology"]
+category: ["Lingkungan", "Gaya hidup"]
 cover: "/images/blog/blog-image-1.jpg"
 thumb: "/images/blog/sm/blog-image-1.jpg"
 ---
