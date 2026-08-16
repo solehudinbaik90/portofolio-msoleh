@@ -1,12 +1,10 @@
 ---
-title: "What nodejs can to"
-date: "2022-04-10T20:31:59.889Z"
+title: "Demokrasi Di Ujung Tanduk Penegak Hukum Berpihak Pada Penguasa"
+date: "2026-08-05T00:00:00+07:00"
 category: ["Javascript"]
 cover: "/images/blog/blog-image-3.jpg"
 thumb: "/images/blog/sm/blog-image-3.jpg"
 ---
-
-# Demokrasi Di Ujung Tanduk Penegak Hukum Berpihak Pada Penguasa
 
 Demokrasi yang sehat menuntut penegakan hukum yang adil dan independen. Ketika aparat cenderung berpihak pada penguasa, kepercayaan publik terkikis dan prinsip checks and balances terancam. Kondisi ini menempatkan demokrasi di ujung tanduk.
 
