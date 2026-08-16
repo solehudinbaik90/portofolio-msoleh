@@ -60,13 +60,13 @@ const AboutSection = () => {
           className="about-content"
         >
           <h3>
-            Hi, Saya adalah <span className="text-primary" style={{display:'none'}}>{data.fullName}</span>
+            Hi, Saya Muhamad Soleh <span className="text-primary" style={{display:'none'}}>{data.fullName}</span>
           </h3>
           <ul className="styledlist">
             {data.firstName && (
               <li className="text-lg">
                 <strong className="inline-block min-w-[120px] font-medium">
-                  Nama{" "}
+                  Awalan{" "}
                 </strong>
                 : {data.firstName}
               </li>
@@ -74,7 +74,7 @@ const AboutSection = () => {
             {data.lastName && (
               <li className="text-lg">
                 <strong className="inline-block min-w-[120px] font-medium">
-                  Panggilan{" "}
+                  Akhiran{" "}
                 </strong>
                 : {data.lastName}
               </li>
