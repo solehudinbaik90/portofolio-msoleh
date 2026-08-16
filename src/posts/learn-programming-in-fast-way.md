@@ -1,12 +1,11 @@
 ---
-title: "Learn programming in fast way"
-date: "2022-04-12T20:31:59.889Z"
+title: "Tips Mahir Berbicara Di Depan Publik Berguna Untuk Kamu Yang Ingin Jadi Jurnalis"
+date: "2026-06-01T00:00:00+07:00"
 category: ["Technology"]
 cover: "/images/blog/blog-image-11.jpg"
 thumb: "/images/blog/sm/blog-image-11.jpg"
 ---
 
-# Tips Mahir Berbicara Di Depan Publik Berguna Untuk Kamu Yang Ingin Jadi Jurnalis
 
 Kemampuan berbicara di depan publik adalah aset berharga bagi calon jurnalis. Keterampilan ini membantu menyampaikan informasi dengan jelas, meyakinkan, sekaligus membangun kredibilitas di hadapan audiens.
 
