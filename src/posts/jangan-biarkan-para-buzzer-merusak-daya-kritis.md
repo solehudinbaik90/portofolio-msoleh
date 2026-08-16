@@ -1,7 +1,7 @@
 ---
 title: "Jangan Biarkan Para Buzzer Merusak Daya Kritis Kita Dengan Konten Receh"
 date: "2026-05-30T00:00:00+07:00"
-category: ["Design", "Trend"]
+category: ["Politik", "Medsos"]
 cover: "/images/blog/blog-image-7.jpg"
 thumb: "/images/blog/sm/blog-image-7.jpg"
 ---
