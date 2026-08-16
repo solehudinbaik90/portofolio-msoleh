@@ -72,7 +72,7 @@ const PostPage = ({ title, date, cover, category, content }) => {
             </div>
             <div className="flex flex-wrap justify-between gap-x-4">
               <div className="mb-0 flex gap-2 text-heading">
-                Category :{" "}
+                Kategori :{" "}
                 <div className="inline-flex list-none gap-1.5">
                   {category?.map((cat, i) => (
                     <span
