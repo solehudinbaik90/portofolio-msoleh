@@ -1,7 +1,7 @@
 ---
 title: "Tips Menaklukkan Peserta Didik Dalam Memahami Mata Pelajaran IPA"
 date: "2026-05-23T00:00:00+07:00"
-category: ["Javascript"]
+category: ["Edukasi", "Tips & Trik"]
 cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---
