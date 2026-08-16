@@ -1,12 +1,11 @@
 ---
-title: "Learn how to use terminal"
-date: "2022-04-26T20:31:59.889Z"
+title: "Jangan Biarkan Para Buzzer Merusak Daya Kritis Kita Dengan Konten Receh"
+date: "2026-05-30T00:00:00+07:00"
 category: ["Design", "Trend"]
 cover: "/images/blog/blog-image-7.jpg"
 thumb: "/images/blog/sm/blog-image-7.jpg"
 ---
 
-# Jangan Biarkan Para Buzzer Merusak Daya Kritis Kita Dengan Konten Receh
 
 Kehadiran buzzer yang menyebarkan konten receh sering kali mengaburkan isu penting dan melemahkan daya kritis masyarakat. Konten semacam ini dirancang untuk memancing emosi, bukan pemikiran mendalam. Kita harus waspada agar tidak mudah terpengaruh.
 
