@@ -1,7 +1,7 @@
 ---
 title: "Mari Kita Selalu Jaga Hutan Demi Keseimbangan Ekosistem Agar Tidak Terjadi Bencana"
 date: "2026-05-01T00:00:00+07:00"
-category: ["Javascript", "Technology"]
+category: ["Lingkungan", "Sains"]
 cover: "/images/blog/blog-image-4.jpg"
 thumb: "/images/blog/sm/blog-image-4.jpg"
 ---
