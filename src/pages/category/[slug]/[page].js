@@ -41,11 +41,11 @@ const CategoryPosts = ({ posts, hasMore, categories, recentPosts }) => {
         title={slug}
         paths={[
           {
-            name: "Home",
+            name: "Beranda",
             link: "/",
           },
           {
-            name: "Blogs",
+            name: "Artikel",
             link: "/posts/1",
           },
           {
