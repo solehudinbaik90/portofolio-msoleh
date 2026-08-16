@@ -26,21 +26,19 @@ const Blog = ({ post: { title, date, thumb, category, slug } }) => {
           </a>
         </Link>
         <div className="blog-date absolute left-auto right-5 top-5 inline-block min-h-[60px] min-w-[60px] rounded bg-primary p-2 text-center text-grey">
-          <span className="month block text-sm uppercase leading-none">
-            {new Date(date).toLocaleDateString("en-us", {
-              month: "short",
-            })}
-          </span>
           <span className="date block text-2xl leading-none">
-            {new Date(date).toLocaleDateString("en-us", {
+              {new Date(date).toLocaleDateString("id-ID", {
               day: "2-digit",
-            })}
-          </span>
-          <span className="year block text-sm leading-none">
-            {new Date(date).getFullYear({
-              year: "numeric",
-            })}
-          </span>
+              })}
+         </span>
+         <span className="month block text-sm uppercase leading-none">
+             {new Date(date).toLocaleDateString("id-ID", {
+             month: "short",
+             })}
+        </span>
+        <span className="year block text-sm leading-none">
+            {new Date(date).getFullYear()}
+        </span>
         </div>
       </div>
       <h5 className="mb-0">
