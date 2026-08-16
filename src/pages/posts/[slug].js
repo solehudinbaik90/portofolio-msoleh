@@ -38,14 +38,14 @@ const Posts = ({ posts, hasMore, categories, recentPosts }) => {
         <title>Artikel - Muhamad Soleh | Portofolio</title>
       </Head>
       <Breadcrumb
-        title="Blogs"
+        title="Artikel"
         paths={[
           {
-            name: "Home",
+            name: "Beranda",
             link: "/",
           },
           {
-            name: "Blogs",
+            name: "Artikel",
             link: "",
           },
         ]}
